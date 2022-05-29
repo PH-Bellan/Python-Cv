@@ -1,2 +1,2 @@
 # Python-Cv
-Meus exercicios do curso em video de python
+Alguns exercicios que eu fiz em python, retirados do Curso em Video 
